@@ -1,0 +1,7 @@
+C:\Users\Datta\source\repos\CapitaOptimisedFileReadWriteSolution\bin\Debug\CapitaOptimisedFileReadWriteSolution.exe.config
+C:\Users\Datta\source\repos\CapitaOptimisedFileReadWriteSolution\bin\Debug\CapitaOptimisedFileReadWriteSolution.exe
+C:\Users\Datta\source\repos\CapitaOptimisedFileReadWriteSolution\bin\Debug\CapitaOptimisedFileReadWriteSolution.pdb
+C:\Users\Datta\source\repos\CapitaOptimisedFileReadWriteSolution\obj\Debug\CapitaOptimisedFileReadWriteSolution.csprojAssemblyReference.cache
+C:\Users\Datta\source\repos\CapitaOptimisedFileReadWriteSolution\obj\Debug\CapitaOptimisedFileReadWriteSolution.csproj.CoreCompileInputs.cache
+C:\Users\Datta\source\repos\CapitaOptimisedFileReadWriteSolution\obj\Debug\CapitaOptimisedFileReadWriteSolution.exe
+C:\Users\Datta\source\repos\CapitaOptimisedFileReadWriteSolution\obj\Debug\CapitaOptimisedFileReadWriteSolution.pdb
